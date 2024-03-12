@@ -28,7 +28,7 @@
 			@yield('content')
 		</div>
 		<footer>
-			<p><center>Сделал: Петунин Иван Евгеньевич</center></p>
+			<p>Сделал: Петунин Иван Евгеньевич</p>
 		</footer>
 	</body>
 </html>
